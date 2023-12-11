@@ -17,5 +17,3 @@ print(user_name)
 print(current_datetime)
 print(str_value1, ", ", str_value2)
 print(comparison_match)
-
-#Test change
